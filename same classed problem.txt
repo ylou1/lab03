@@ -1,0 +1,7 @@
+Same classes of the problem
+
+
+
+1. count the sum of 1 to 10
+
+2.compare and select the maxium of array
